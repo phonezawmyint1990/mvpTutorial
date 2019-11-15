@@ -1,0 +1,68 @@
+PODS:
+  - Alamofire (4.9.1)
+  - IQKeyboardManagerSwift (6.5.2)
+  - LGSideMenuController (2.1.1)
+  - MaterialComponents/AnimationTiming (94.0.0)
+  - MaterialComponents/Elevation (94.0.0):
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/Palettes (94.0.0)
+  - MaterialComponents/private/Application (94.0.0)
+  - MaterialComponents/private/Color (94.0.0)
+  - MaterialComponents/private/Math (94.0.0)
+  - MaterialComponents/TextFields (94.0.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Elevation
+    - MaterialComponents/Palettes
+    - MaterialComponents/private/Math
+    - MaterialComponents/Typography
+    - MDFInternationalization
+  - MaterialComponents/Typography (94.0.0):
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/Math
+  - MDFInternationalization (2.0.0)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - SDWebImage (5.3.1):
+    - SDWebImage/Core (= 5.3.1)
+  - SDWebImage/Core (5.3.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - LGSideMenuController
+  - MaterialComponents/TextFields
+  - RxCocoa
+  - RxSwift
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - LGSideMenuController
+    - MaterialComponents
+    - MDFInternationalization
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  IQKeyboardManagerSwift: c75366f1f19590e8caeae45fcd5815c9289d6099
+  LGSideMenuController: ae40c80983ab8b8801c7cef0a6804d43aaa72d45
+  MaterialComponents: af933df927a64ba202b3162bd59ff0fe746686cb
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  SDWebImage: 7137d57385fb632129838c1e6ab9528a22c666cc
+
+PODFILE CHECKSUM: 195c68b64f8d2d6dfe2c1903c964c043018561bf
+
+COCOAPODS: 1.8.4
